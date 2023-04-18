@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZSlotDrop-1.19">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZSlotDrop_1_19</output-path>
+    <root id="archive" name="ZSlotDrop-1.19.jar">
+      <element id="module-output" name="ZSlotDrop-1.19" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

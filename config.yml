@@ -1,0 +1,26 @@
+Message:
+  reload: "&b[ZSlotDrop] &a重载成功!"
+  dropMoney: "&a您掉落了&e%balance%&a个金币"
+  getMoney: "&a您捡起了&e%balance%&a个金币"
+WorldSetting:
+  #世界名
+  world:
+    #是否保留药水效果
+    keepEffect: true
+    #保留饱食度
+    keepFood: true
+    #玩家掉落的钱数
+    dropMoney: 500.00-800.00
+    #别的玩家捡起金币时可获得的钱数
+    dropMoneyPickUp: "%dropMoney% * 0.4 + %player_level%"
+    #会掉落物品的槽位[从中挑选N个槽位]
+    dropSlot:
+      - 1
+      - 3
+      - 5
+      - 11
+      - 37
+    #掉落数量[不满该数量直接全丢掉]
+    dropAmount: 1-5
+    LockLore:
+      - "物品有该lore不会掉落"

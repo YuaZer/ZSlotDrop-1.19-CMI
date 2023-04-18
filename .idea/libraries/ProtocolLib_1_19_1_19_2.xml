@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProtocolLib-1.19-1.19.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../开发API/ProtocolLib-1.19-1.19.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
